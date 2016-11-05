@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiGeoSignificantChange
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiGeoSignificantChange
+moduleid: ti.geo.significantchange
+guid: fd3b83d5-396b-4a7e-80a0-4554ca6987b0
+platform: iphone
+minsdk: 5.4.0.GA
